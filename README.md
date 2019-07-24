@@ -9,5 +9,6 @@ Some basic AI/ML/DL algorithms implemented from scratch for understanding purpos
 3. Decision Tree (Soon)
 4. Support Vector Machines (Soon)
 5. Naive Bayes (Soon)
-6. KNN (Soon)
-7. 
+6. K-Nearest Neighbors
+7. K-means (Soon)
+8. Agglomerative Hierachical Clustering (Soon)
