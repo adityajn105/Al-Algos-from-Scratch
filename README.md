@@ -3,12 +3,12 @@ Some basic AI/ML/DL algorithms implemented from scratch for understanding purpos
 
 
 ### Algorithms implemented:
-1. Basic Deep Neural Network using Gradient Descent for Backpropogation.
-2. Logistic Regression using Gradient Descent
-3. Linear Regression using Gradient Descent 
+1. [Basic Deep Neural Network using Gradient Descent for Backpropogation](Basic Deep Neural Network/)
+2. [Logistic Regression using Gradient Descent](Linear Regression/)
+3. [Linear Regression using Gradient Descent](Linear Regression/) 
 3. Decision Tree (Soon)
 4. Support Vector Machines (Soon)
 5. Naive Bayes (Soon)
-6. K-Nearest Neighbors
+6. [K-Nearest Neighbors Classifier/Regressor](K-Nearest Neighbour/)
 7. K-means (Soon)
 8. Agglomerative Hierachical Clustering (Soon)
