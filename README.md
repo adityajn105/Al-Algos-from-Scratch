@@ -10,5 +10,5 @@ Some basic AI/ML/DL algorithms implemented from scratch for understanding purpos
 4. Support Vector Machines (Soon)
 5. Naive Bayes (Soon)
 6. [K-Nearest Neighbors Classifier/Regressor](https://github.com/adityajn105/Al-Algos-from-Scratch/tree/master/K-Nearest%20Neighbour)
-7. K-means (https://github.com/adityajn105/Al-Algos-from-Scratch/tree/master/K-Means%20Clustering/Kmeans.ipynb)
+7. [K-means](https://github.com/adityajn105/Al-Algos-from-Scratch/tree/master/K-Means%20Clustering/Kmeans.ipynb)
 8. Agglomerative Hierachical Clustering (Soon)
