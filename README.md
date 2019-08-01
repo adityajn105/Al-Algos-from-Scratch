@@ -7,7 +7,7 @@ Some basic AI/ML/DL algorithms implemented from scratch for understanding purpos
 2. [Logistic Regression using Gradient Descent](https://github.com/adityajn105/Al-Algos-from-Scratch/blob/master/Logistic%20Regression/Logistic%20Regression%20(SGD).ipynb)
 3. [Linear Regression using Gradient Descent](https://github.com/adityajn105/Al-Algos-from-Scratch/blob/master/Linear%20Regression/Linear%20Regression%20(SGD).ipynb) 
 3. Decision Tree (Soon)
-4. Support Vector Machines (Soon)
+4. [Support Vector Machines](https://github.com/adityajn105/Al-Algos-from-Scratch/blob/master/Support%20Vector%20Machines/Support%20Vector%20Machine.ipynb)
 5. Naive Bayes (Soon)
 6. [K-Nearest Neighbors Classifier/Regressor](https://github.com/adityajn105/Al-Algos-from-Scratch/tree/master/K-Nearest%20Neighbour)
 7. [K-means](https://github.com/adityajn105/Al-Algos-from-Scratch/tree/master/K-Means%20Clustering/Kmeans.ipynb)
